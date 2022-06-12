@@ -9,7 +9,7 @@
 
 ## ⬆️DEPLOY KE SERVER HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Anthoniraj82627%2FFiletolink-12-april&template=https%3A%2F%2Fgithub.com%2FAnthoniraj82627%2filetolink-12-april)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Anthoniraj82627%2Ffiletolink-12-april&template=https%3A%2F%2Fgithub.com%2FAnthoniraj82627%2Ffiletolink-12-april)
 
 
 ## APA ITU HEROKU
