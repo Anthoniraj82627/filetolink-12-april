@@ -2,7 +2,7 @@
     "name": "FileKeLink",
     "description": "Mudsh.",
     "website": "https://t.me/deryluserbothelp",
-    "repository": "https://github.com/derylprojects/bottglink",
+    "repository": "https://github.com/Anthoniraj82627/filetolink-12-april",
     "logo": "https://i.ibb.co/BPFxDXx/photo-2021-07-09-11-55-52.jpg",
     "env": {
           "TG_BOT_TOKEN": {"description": "Token botmu dari botfather","required": true}
